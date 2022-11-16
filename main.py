@@ -1,3 +1,5 @@
-from django.http import HttpResponse
+if __name__ == "__main__":
+    print('test')
 
-print("hello")
+
+
